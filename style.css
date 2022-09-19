@@ -1,0 +1,24 @@
+
+body{
+    background-color: #f3f5e5;
+
+}
+a{
+    font-size: 20px;
+    
+}
+.firstDiv{
+    border: 2px  ;
+    background-color:  #a4cc90 ;
+    text-align: center;
+    color:#422f2f ;
+    font-size: 35px;
+}
+h2,h3{
+    color: #42855B;
+}
+
+.ul-list{
+    color: #991717;
+    font-size: 25px;
+}
